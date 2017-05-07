@@ -17,7 +17,7 @@ https://github.com/angelabassa/csv-conf-v3/blob/master/csv-conf-v3%20ABassa%20-%
 
 
 ## Additional Resources
-Being lucky enough to introduce people to something knew is one of my favorite things :)
+Being lucky enough to introduce people to something knew is one of my favorite things 😄
 
 ![xkcd: Ten Thousand](https://imgs.xkcd.com/comics/ten_thousand.png)
 
@@ -33,7 +33,7 @@ https://www.xkcd.com/1053/
 * https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
 ### Kara Swisher on Unconscious Bias (and Mirror-tocracy)
-* https://www.washingtonpost.com/graphics/opinions/spring-cleaning-2017/?tid=sm_tw&utm_term=.7fa5825f8858#unconscious-bias
+* https://www.washingtonpost.com/graphics/opinions/spring-cleaning-2017/
 
 ### Survivorship Bias
 * https://en.wikipedia.org/wiki/Survivorship_bias
