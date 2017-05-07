@@ -23,30 +23,33 @@ Being lucky enough to introduce people to something knew is one of my favorite t
 
 https://www.xkcd.com/1053/
 
-### More on Super Chickens
+#### More on Super Chickens
 * https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work
 
-### Amy Edmondson's research into Psychological Safety, and Google's Project Aristotle
+#### Amy Edmondson's research into Psychological Safety, and Google's Project Aristotle
 * https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 
-### Rubber Duck debugging
+#### Impostor Syndrome
+* https://en.wikipedia.org/wiki/Impostor_syndrome
+
+#### Rubber Duck debugging
 * https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
-### Kara Swisher on Unconscious Bias (and Mirror-tocracy)
+#### Kara Swisher on Unconscious Bias (and Mirror-tocracy)
 * https://www.washingtonpost.com/graphics/opinions/spring-cleaning-2017/
 
-### Survivorship Bias
+#### Survivorship Bias
 * https://en.wikipedia.org/wiki/Survivorship_bias
 * http://www.ams.org/samplings/feature-column/fc-2016-06
 
-### P-Hacking (a.k.a. data dredging)
+#### P-Hacking (a.k.a. data dredging)
 * https://en.wikipedia.org/wiki/Data_dredging
 * https://projects.fivethirtyeight.com/p-hacking/
 
-### Arrival Movie (and how language shapes the way we think)
+#### Arrival Movie (and how language shapes the way we think)
 * http://www.arrivalmovie.com
 
-### Olivia Fox Cabane on Cognitive Reframing
+#### Olivia Fox Cabane on Cognitive Reframing
 * https://ecorner.stanford.edu/videos/3008/How-to-Rewrite-Reality
 
 
@@ -55,4 +58,4 @@ https://www.xkcd.com/1053/
 * Wikimedia: http://wikimedia.org
 * Fair use of commercial images
 
-And since I'm neither a graphic nor a web designer, I can't take any credit for the design template--only for the contents of my talk. If you like the slides you can get the template here: https://www.goashape.com/shop/kaspian-keynote-presentation-template
+And since I'm neither a graphic nor a web designer, I can't take any credit for the design template—only for the contents of my talk. If you like the slides you can get the template here: https://www.goashape.com/shop/kaspian-keynote-presentation-template
