@@ -32,6 +32,12 @@ https://www.xkcd.com/1053/
 ### Rubber Duck debugging
 * https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
+### Kara Swisher on Unconscious Bias (and Mirror-tocracy)
+* https://www.washingtonpost.com/graphics/opinions/spring-cleaning-2017/?tid=sm_tw&utm_term=.7fa5825f8858#unconscious-bias
+
+### Survivorship Bias
+* https://en.wikipedia.org/wiki/Survivorship_bias
+
 
 ## Image Credits
 * Unsplash: http://unsplash.com
