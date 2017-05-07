@@ -11,7 +11,9 @@ This will be a useful session for those already working in industry who want to 
 
 
 ## Slides
-* https://github.com/angelabassa/csv-conf-v3/blob/master/csv-conf-v3%20ABassa%20-%20CorpDS%202017.pdf
+![csv-conf-v3 ABassa - CorpDS 2017](https://github.com/angelabassa/csv-conf-v3/blob/master/csv-conf-v3%20ABassa%20-%20CorpDS%202017.png)
+
+https://github.com/angelabassa/csv-conf-v3/blob/master/csv-conf-v3%20ABassa%20-%20CorpDS%202017.pdf
 
 
 ## Additional Resources
