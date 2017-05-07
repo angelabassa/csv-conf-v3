@@ -37,9 +37,22 @@ https://www.xkcd.com/1053/
 
 ### Survivorship Bias
 * https://en.wikipedia.org/wiki/Survivorship_bias
+* http://www.ams.org/samplings/feature-column/fc-2016-06
+
+### P-Hacking (a.k.a. data dredging)
+* https://en.wikipedia.org/wiki/Data_dredging
+* https://projects.fivethirtyeight.com/p-hacking/
+
+### Arrival Movie (and how language shapes the way we think)
+* http://www.arrivalmovie.com
+
+### Olivia Fox Cabane on Cognitive Reframing
+* https://ecorner.stanford.edu/videos/3008/How-to-Rewrite-Reality
 
 
 ## Image Credits
 * Unsplash: http://unsplash.com
 * Wikimedia: http://wikimedia.org
 * Fair use of commercial images
+
+And since I'm neither a graphic nor a web designer, I can't take any credit for the design template--only for the contents of my talk. If you like the slides you can get the template here: https://www.goashape.com/shop/kaspian-keynote-presentation-template
