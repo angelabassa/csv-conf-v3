@@ -1,5 +1,5 @@
 # Corporate Data Science
-This talk was presented at csv,conf,v3 on May 2, 2017 in Portland OR, and at ODSCEast on May 5, 2017 in Boston, MA.
+This talk was presented at csv,conf,v3 (https://csvconf.com/) on May 2, 2017 in Portland OR, and at ODSC-East (https://www.odsc.com/boston) on May 5, 2017 in Boston, MA.
 
 
 ## Abstract
@@ -18,13 +18,13 @@ Being lucky enough to introduce people to something knew is one of my favorite t
 https://www.xkcd.com/1053/
 
 ### More on Super Chickens
-https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work
+* https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work
 
 ### Amy Edmondson's research into Psychological Safety, and Google's Project Aristotle
-https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
+* https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 
 ### Rubber Duck debugging
-https://en.wikipedia.org/wiki/Rubber_duck_debugging
+* https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
 
 ## Image Credits
