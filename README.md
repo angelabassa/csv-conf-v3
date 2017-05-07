@@ -10,6 +10,10 @@ Some of the most important benefits that data science teams can deliver are crea
 This will be a useful session for those already working in industry who want to get better ROI from data science, teachers who want to get a better understanding of what hiring managers look for, students seeking out what to learn in order to be better positioned for data science work, and for data scientists to find out what to advocate for when hiring and how to improve their teams' effectiveness.
 
 
+## Slides
+* https://github.com/angelabassa/csv-conf-v3/blob/master/csv-conf-v3%20ABassa%20-%20CorpDS%202017.pdf
+
+
 ## Additional Resources
 Being lucky enough to introduce people to something knew is one of my favorite things :)
 
