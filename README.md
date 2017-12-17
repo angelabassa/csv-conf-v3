@@ -16,6 +16,12 @@ This will be a useful session for those already working in industry who want to 
 https://github.com/angelabassa/csv-conf-v3/blob/master/csv-conf-v3%20ABassa%20-%20CorpDS%202017.pdf
 
 
+## Video
+This presentation was video recorded. You can watch the videos at the following links:
+* CSV Conf v3: https://youtu.be/b9ZLXwAuUyw
+* ODSC East 2017: https://opendatascience.com/conferences/corporate-data-science-angela-bassa/
+
+
 ## Additional Resources
 Being lucky enough to introduce people to something knew is one of my favorite things 😄
 
